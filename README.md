@@ -1,2 +1,2 @@
 # Craks
-Pag Web de Craks para Universidad distritañ
+Pag Web de Craks para Universidad distrital
